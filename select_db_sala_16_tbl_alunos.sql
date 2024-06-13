@@ -1,0 +1,1 @@
+SELECT * FROM `db_sala_16`.`tbl_alunos`;
